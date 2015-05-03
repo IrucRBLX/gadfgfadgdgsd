@@ -5,7 +5,7 @@ p.Locked = true
 p.BrickColor = BrickColor.new('Really Black')
 p.Size = Vector3.new(8, 1.2, 8)
 p.Anchored = true
-p.Transparency = 100
+p.Transparency = 0.5
 local m = Instance.new("SpecialMesh", N) m.MeshType = "Sphere"
 m.Scale = Vector3.new(1, 0.5, 1)
 m.Parent = p
